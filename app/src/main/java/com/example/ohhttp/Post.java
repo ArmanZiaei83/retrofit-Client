@@ -1,6 +1,7 @@
 package com.example.ohhttp;
 
 public class Post {
+
     private int userId;
     private Integer id;
     private String title;
